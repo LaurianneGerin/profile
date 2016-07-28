@@ -1,0 +1,99 @@
+h1 {
+  color: #0081AF;
+  font-family:'Open Sans', sans-serif;
+  line-height: 24px;
+  font-size: 21px
+}
+
+h2 {
+  color: #001F54;
+  font-family:'Open Sans', sans-serif;
+  line-height: 24px;
+  font-size: 18px;
+}
+
+h3 {
+  color: #0081AF;
+  font-family:'Open Sans', sans-serif;
+  line-height: 24px;
+}
+
+.wiki{
+  font-size: 14px;
+  font-family:'Open Sans', sans-serif;
+}
+
+body {
+  background-color: #EBEBEB;
+  font-family:'Open Sans', sans-serif;
+  line-height: 24px;
+  font-size: 15px;
+}
+
+table{
+  font-size: 15px;
+  border-spacing: 20px;
+
+}
+
+a{
+  color: #0081AF;
+  text-decoration: none
+}
+
+a:hover{
+  color: #F20D56;
+}
+
+.fa{
+  font-size: 50px;
+}
+.container {
+  width: 600px;
+  margin: 0px auto;
+}
+
+.card {
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  background-color: #FEFCFB;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.image_circle {
+  border-radius: 50%;
+}
+
+.list_inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list_inline {
+  padding-left: 0px;
+}
+
+.fa {
+  size: 20px;
+}
+
+.btn-blue{
+  background-color: #0081AF ;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#movies {
+  line-height: 1.6em;
+}
+
+.poster{
+  width: 150px;
+}
